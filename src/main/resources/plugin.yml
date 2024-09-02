@@ -1,0 +1,6 @@
+name: tradeMarket
+version: '1.0-SNAPSHOT'
+main: org.plugin.tradeMarket.TradeMarket
+api-version: '1.21'
+authors: [ Namu l'arbre ]
+description: Trade item on the market and get a lot of money ! (The author of the plugin is not responsible for any emeralds lost)
